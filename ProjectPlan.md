@@ -9,7 +9,7 @@
 
 # Your analysis of the data will be split into three main parts, or stages.
 
-  ## Collect the Data
+  ## A. Collect the Data
 
     1. Use the NumPy module to generate more than 1,500 random latitudes and longitudes.
     2. Use the citipy module to list the nearest city to the latitudes and longitudes.
@@ -23,7 +23,7 @@
         - Cloudiness
         - Wind speed
 
-  ## Exploratory Analysis with Visualization
+  ## B. Exploratory Analysis with Visualization
 
     1. Create scatter plots of the weather data for the following comparisons:
         - Latitude versus temperature
@@ -41,7 +41,7 @@
         - Latitude and cloudiness
         - Latitude and wind speed
 
-  ## Visualize Travel Data
+  ## C. Visualize Travel Data
 
     Create a heatmap with pop-up markers that can display information on specific cities based on a customer's travel preferences. Complete these steps:
       1. Filter the Pandas DataFrame based on user inputs for a minimum and maximum temperature.
